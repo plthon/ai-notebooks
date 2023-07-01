@@ -1,9 +1,5 @@
 # Sensor Data Anomaly Detection
 
-## Description
-
-This repository contains a Python project for analyzing and deriving meaningful insights from sensor data of a tool. The objective of this project is to process and explore the data, visualize the findings, and develop an anomaly detection model.
-
 ## Background
 
 In semiconductor industry, a wafer goes through fabrication process that involves various tools, and a recipe defines how the wafer is processed by a tool. A wafer lot is a batch of multiple wafers that belong to the same technology and product.
@@ -12,7 +8,7 @@ The sensor values of a tool are recorded for each wafer run, and this data is im
 
 ## Input Data
 
-The input data is stored in a CSV file named "Tool_Sensor_Data.csv".
+The input data is stored in a CSV file named "[Tool_Sensor_Data.csv](Tool_Sensor_Data.csv)".
 The CSV file contains the wafer run information (e.g. TimeStamp, ToolName), and the columns with randomized characters denote the sensors. 
 
 ## Anomaly Detection Modelling and Pipeline Design
@@ -22,7 +18,3 @@ The task is to create a data science pipeline that performs anomaly detection of
 ## Solution
 
 Please find the "[solution.ipynb](solution.ipynb)" file for the solution.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
