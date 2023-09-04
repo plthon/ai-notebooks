@@ -5,6 +5,10 @@ This repository is a collection of various small AI projects and notebooks that 
 ## List of Projects
 In descending order of recency:
 
+* ### [Credit Card Churn Prediction](Credit%20Card%20Churn%20Prediction)
+
+This project focuses on customer churn analysis using a dataset of 10,127 customer records with 19 features. The tasks include uncovering factors influencing churn through exploratory data analysis and constructing a predictive model, ultimately shedding light on potential churners.
+
 * ### [Sensor Data Anomaly Detection](Sensor%20Data%20Anomaly%20Detection)
 
 This project focuses on analyzing and deriving meaningful insights from sensor data of a tool. The main objectives include data processing and exploration, visualization of findings, and the development of anomaly detection models.
